@@ -191,9 +191,7 @@ stress_test_sector()               # Applies sector shock and recalculates risk
 ## How to Run
 
 1. Clone or download the project folder.
-
 2. Make sure the `data/` folder is in the same directory as the notebook.
-
 3. Install the required Python packages.
 
 ```bash
@@ -260,3 +258,5 @@ Possible extensions include:
 ## Author
 
 Shengsheng He
+
+Chen Ye
